@@ -21,4 +21,4 @@ A significant correlation between Total Sleep Hours and BMI Categories suggests 
 # Dataset used #
 Link : https://www.kaggle.com/datasets/uom190346a/global-coffee-health-dataset
 # Dashboard #
-Link: [(https://charts.mongodb.com/charts-databasedb-01-ldzeulp/public/dashboards/b62622ed-45af-46d6-ba6e-db04e936e55c)
+Link: https://charts.mongodb.com/charts-databasedb-01-ldzeulp/public/dashboards/b62622ed-45af-46d6-ba6e-db04e936e55c
