@@ -1,3 +1,5 @@
+<img width="1553" height="1390" alt="dashboardDB (1)" src="https://github.com/user-attachments/assets/00a0aab2-2d2b-4304-8fe7-fc4a533489a7" />
+
 # The Caffeine-Lifestyle-Health Triad #
 ### Self Study Assignment- Section B | Group 17 ###
 # Group Members #
